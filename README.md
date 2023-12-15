@@ -7,7 +7,7 @@ Let's connect and explore opportunities to innovate together!
 
 ### CONTACT ME
 
-[![Linkedin Badge](https://img.shields.io/badge/-emmanuel%20omekara%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/emmanuel-omekara-053a61226/)](www.linkedin.com/in/emmanuel-omekara-053a61226)
+[![Linkedin Badge](https://img.shields.io/badge/-Emmanuel%20Omekara%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/emmanuel-omekara-053a61226/)](www.linkedin.com/in/emmanuel-omekara-053a61226)
 [![Gmail Badge](https://img.shields.io/badge/-ebukanuel2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebukanuel2021@gmail.com)](mailto:ebukanuel2021@gmail.com)
 
 <!--[![Rosemary's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rosemary-Emenike&theme=xcode)](https://git.io/Rosemary-Emenike)
